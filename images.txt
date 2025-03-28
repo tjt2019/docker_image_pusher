@@ -1,6 +1,1 @@
-mysql_8_0_41
-#支持私库
 mysql:8.0.41
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
